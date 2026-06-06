@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-original.png" width="300" alt="HEX Luthor Logo">
+<img src="assets/logo-original.png" width="500" alt="HEX Luthor Logo">
 
 # ⚡ HEX Luthor
 
