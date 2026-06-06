@@ -1,0 +1,34 @@
+{
+  "name": "hex-luthor",
+  "version": "1.0.0",
+  "description": "Seamless, borderless backgrounds for GitHub READMEs and GitHub Pages",
+  "main": "src/hex-luthor.js",
+  "bin": {
+    "hex-luthor": "./cli.js"
+  },
+  "files": [
+    "src/",
+    "cli.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "background",
+    "svg",
+    "pattern",
+    "github-pages",
+    "borderless",
+    "seamless"
+  ],
+  "author": "mog",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HEX-Luthor/HEX-Luthor.git"
+  }
+}
